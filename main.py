@@ -103,6 +103,8 @@ d = input(f"{red}[~]{blue}guid accuont fard ro vared kon ->")
 target =d
 mo = input(f"{red}[~]{blue}guid makani ke mikhai paiam bdi ->")
 target2 =mo
+ko = input(f"{red}[~]{pink}Enter your message ->")
+bot.sendMessage(target2,ko)
 print("--------------------------------")  
 m = input(f"{red}[~]{green}name change😈 ->")
 bot.editProfile(first_name=m)
@@ -116,13 +118,11 @@ print("--------------------------------")
 e = input(f"{red}[~]{yellow}Change profile ->")
 bot.uploadAvatar(target,e)
 print("--------------------------------")  
-monji=input(f"{red}[~]{yellow}Throwing out of the account -> <y/n>")
+monji=input("{red}[~]{yellow}Throwing out of the account -> <y/n>")
 if monji == "y":
 	os.system("logout()")
 if monji == "n":
 	os.system("clear")
 print('')
-ko = input(f"{red}[~]{yellow}guid where you want to send a message -> ")
-bot.sendMessage(target2,ko)
 print("--------------------------------")  
 print(f"{green}[+ ok⸽end]")
